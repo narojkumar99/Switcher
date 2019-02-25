@@ -39,7 +39,7 @@ XML
 You must use the following properties in your XML to change your Switcher.
 
 
-##### Properties:
+##### Propertie:
 
 * `android:checked`                 (boolean)   -> default  true
 * `app:switcher_on_color`           (color)     -> default  #48ea8b
